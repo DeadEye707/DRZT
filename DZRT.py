@@ -7,7 +7,7 @@ from telegram import Bot, Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, CallbackContext
 
 # Bot credentials
-BOT_TOKEN = "7802865789:AAFnLWxYYEXfUcw-uq0nVLXluxXQ48QuGyg"
+BOT_TOKEN = "7802865789:AAFsz6Bz1DaZsqrW9Adjux2N6BZOBS3FEI8"
 ADMIN_IDS = ["1218778557", "2028523343"]
 URL = "https://www.dzrt.com/ar-sa/products"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
